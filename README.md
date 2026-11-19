@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Juliana! 👋
 
-<!--
-**joctapias/joctapias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Quality Assurance | Software Testing
 
-Here are some ideas to get you started:
+I'm building my path in Quality Assurance, exploring software testing, test automation and API testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 **Currently learning**
+- Software Testing fundamentals
+- Cypress and JavaScript
+- API Testing with Postman
+- Test cases, scenarios and bug reporting
+
+🛠️ **Tools & Technologies**
+- Cypress
+- JavaScript
+- Postman
+- Git & GitHub
+
+🎯 **My goal**
+
+To develop practical QA skills, improve my technical knowledge and contribute to building more reliable software.
+
+---
+
+*Always learning, testing and improving!*
